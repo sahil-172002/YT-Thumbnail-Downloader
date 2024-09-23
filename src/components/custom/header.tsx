@@ -17,7 +17,7 @@ const Header = () => {
         <div className="flex items-center gap-2">
           <ThemeToggle />
           <a
-            href="https://github.com/theviralboy/Youtube-Thumbnail-Extracter"
+            href="https://github.com/sahil-172002/YT-Thumbnail-Downloader"
             target="_blank"
             className={buttonVariants({
               variant: "secondary",
