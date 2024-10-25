@@ -30,7 +30,7 @@ The YouTube Thumbnail Downloader allows users to easily download high-quality th
 ## Contact Me
 
 - **Email:** [sahil172002@gmail.com](mailto:sahil172002@gmail.com)
-- **Portfolio:** [sahilverma.dev](https://sahilandhare.tech/)
+- **Portfolio:** [sahilandhare.tech](https://sahilandhare.tech/)
 - **GitHub:** [@sahil-172002](https://github.com/sahil-172002)
 - **Twitter:** [@sahil_1718_](https://x.com/Sahil_1718_)
 - **LinkedIn:** [sahilAndhare](https://www.linkedin.com/in/sahilandhare/)
